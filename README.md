@@ -8,7 +8,7 @@
   
   - Beginner in frontend development, fullstack wannabe
   - Learning js with react
-  - Doing a #100-days-of-code challenge
+  - Doing a <a href="https://github.com/mulundapm/100DaysOfCode">#100-days-of-code</a> challenge
   - Please roast my code, am here to learn
   - Looking for a coding buddy <a href="https://discord.com/users/1057983472309903430">
     <img src="https://img.shields.io/badge/Discord-violet?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
