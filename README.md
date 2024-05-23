@@ -5,8 +5,7 @@
 
 <div id="about-me">
   <h2>👩🏽‍💻 About me</h2>
-  I am a Product manager, currently based in Oslo.
-
+  
   - Beginner in frontend development
   - Learning js with react
   - Doing a #100-days-of-code challenge
