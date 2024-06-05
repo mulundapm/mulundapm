@@ -6,7 +6,7 @@
 <div id="about-me">
   <h2>👩🏽‍💻 About me</h2>
   
-  - Beginner in frontend development, fullstack wannabe
+  - Beginner in frontend development
   - Learning js with react
   - Doing a <a href="https://github.com/mulundapm/100DaysOfCode">#100-days-of-code</a> challenge
   - Please roast my code, am here to learn
