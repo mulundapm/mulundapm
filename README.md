@@ -8,7 +8,6 @@
   - Beginner in frontend development
   - Learning js with react
   - Doing a <a href="https://github.com/mulundapm/100DaysOfCode">#100-days-of-code</a> challenge
-  - Please roast my code, am here to learn
   </a>
 <h2>Tech stack</h2>
   <div>
