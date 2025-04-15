@@ -1,14 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBocnZoNWhsZ2I2ZDg0MDNrcDBneDY0bnV2ODQxc3UyZW1udnhhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pla0PNdXVHbqlEmiy4/giphy.gif" width="300"/>
-</div>
-
-<div id="about-me">
-  <h2>About me</h2>
-  
-  - Beginner in frontend development
-  - Learning js with react
-  - Doing a <a href="https://github.com/mulundapm/100DaysOfCode">#100-days-of-code</a> challenge
-  </a>
 <h2>Tech stack</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
